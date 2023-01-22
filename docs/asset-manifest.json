@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcb1f16e.css",
+    "main.js": "/static/js/main.bc1ce82a.js",
+    "static/media/marvelDc.png": "/static/media/marvelDc.d3d2a74798724a98f827.png",
+    "index.html": "/index.html",
+    "main.fcb1f16e.css.map": "/static/css/main.fcb1f16e.css.map",
+    "main.bc1ce82a.js.map": "/static/js/main.bc1ce82a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb1f16e.css",
+    "static/js/main.bc1ce82a.js"
+  ]
+}
